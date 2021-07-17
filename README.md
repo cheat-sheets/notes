@@ -1,6 +1,4 @@
 # notes
-      
---- 
 
 3 qualities you should be looking for in leaders:
 
