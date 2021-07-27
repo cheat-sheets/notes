@@ -20,3 +20,5 @@ lean towards readability.
 
 ---
 
+As a businessman you focus, as an investor you diversify.
+
