@@ -35,6 +35,14 @@ Every book can be broken into the following "nutrients":
 - Vitamins: anecdotes, jokes, funny stories, beautiful quotes (makes you an interesting companion)
 - Water: everything else (you can forget it)
 
-
-
 https://www.youtube.com/watch?v=nk1DrU-AEC0
+
+---
+
+Some tips and tricks from Elon Musk on design and engineering https://youtu.be/t705r8ICkRw?t=1001
+
+1. Make the requirements less dumb
+2. Delete parts and processes that are not needed
+3. Simplify and optimize (optimization should be done as later as possible otherwise you'd optimize parts that shouldn't exist)
+4. Accelerate
+5. Automate (important to not do steps 4 and 5 before several iterations of 1, 2 ,3)
